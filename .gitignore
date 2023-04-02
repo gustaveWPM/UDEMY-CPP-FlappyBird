@@ -1,0 +1,8 @@
+*.o
+a.out
+vgcore*
+vscode/
+vscode/*
+build.sh
+cmake-build-debug/
+CMakeFiles/
